@@ -17,20 +17,6 @@
   </url>
   
   <url>
-    <loc>https://wordvoid.net/ko/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://wordvoid.net/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://wordvoid.net/ko/"
-                />
-  </url>
-  
-  <url>
     <loc>https://wordvoid.net/ko/series/</loc>
     <xhtml:link
                 rel="alternate"
@@ -55,6 +41,20 @@
                 rel="alternate"
                 hreflang="ko"
                 href="https://wordvoid.net/ko/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://wordvoid.net/ko/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wordvoid.net/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://wordvoid.net/ko/"
                 />
   </url>
   
