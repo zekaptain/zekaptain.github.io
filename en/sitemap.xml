@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://wordvoid.net/en/</loc>
+    <lastmod>2020-04-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://wordvoid.net/ko/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wordvoid.net/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://wordvoid.net/en/contact/</loc>
+    <lastmod>2020-04-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wordvoid.net/en/about/</loc>
+    <lastmod>2020-04-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wordvoid.net/en/tags/acnh/</loc>
+    <lastmod>2020-04-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wordvoid.net/en/tags/doom/</loc>
+    <lastmod>2020-04-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wordvoid.net/en/posts/first_post/</loc>
+    <lastmod>2020-04-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wordvoid.net/en/posts/</loc>
+    <lastmod>2020-04-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wordvoid.net/en/tags/</loc>
+    <lastmod>2020-04-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://wordvoid.net/ko/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wordvoid.net/en/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://wordvoid.net/en/tags/video-games/</loc>
+    <lastmod>2020-04-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wordvoid.net/en/archive/</loc>
+    <lastmod>2019-10-19T11:44:14+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wordvoid.net/en/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://wordvoid.net/ko/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wordvoid.net/en/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://wordvoid.net/en/tags/index/</loc>
+  </url>
+  
+  <url>
+    <loc>https://wordvoid.net/en/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://wordvoid.net/ko/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wordvoid.net/en/series/"
+                />
+  </url>
+  
+</urlset>

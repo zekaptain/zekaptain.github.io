@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://wordvoid.net/ko/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wordvoid.net/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://wordvoid.net/ko/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://wordvoid.net/ko/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wordvoid.net/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://wordvoid.net/ko/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://wordvoid.net/ko/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wordvoid.net/en/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://wordvoid.net/ko/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://wordvoid.net/ko/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wordvoid.net/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://wordvoid.net/ko/tags/"
+                />
+  </url>
+  
+</urlset>
