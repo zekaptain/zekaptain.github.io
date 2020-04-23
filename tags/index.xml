@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on word void</title>
-    <link>http://wordvoid.net/tags/</link>
+    <link>https://wordvoid.net/tags/</link>
     <description>Recent content in Tags on word void</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 22 Apr 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://wordvoid.net/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://wordvoid.net/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>acnh</title>
-      <link>http://wordvoid.net/tags/acnh/</link>
+      <link>https://wordvoid.net/tags/acnh/</link>
       <pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://wordvoid.net/tags/acnh/</guid>
+      <guid>https://wordvoid.net/tags/acnh/</guid>
       <description></description>
     </item>
     
     <item>
       <title>doom</title>
-      <link>http://wordvoid.net/tags/doom/</link>
+      <link>https://wordvoid.net/tags/doom/</link>
       <pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://wordvoid.net/tags/doom/</guid>
+      <guid>https://wordvoid.net/tags/doom/</guid>
       <description></description>
     </item>
     
     <item>
       <title>video games</title>
-      <link>http://wordvoid.net/tags/video-games/</link>
+      <link>https://wordvoid.net/tags/video-games/</link>
       <pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://wordvoid.net/tags/video-games/</guid>
+      <guid>https://wordvoid.net/tags/video-games/</guid>
       <description></description>
     </item>
     
