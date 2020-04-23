@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>word void</title>
+    <link>http://wordvoid.net/</link>
+    <description>Recent content on word void</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 26 Jun 2017 18:27:58 +0100</lastBuildDate>
+    
+	<atom:link href="http://wordvoid.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>about</title>
+      <link>http://wordvoid.net/about/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://wordvoid.net/about/</guid>
+      <description>Hey, my name&amp;rsquo;s Z. I&amp;rsquo;ve got a day job as a scientist in the midwest but I moonlight as a writer. I like to write about video games, labor, stats, random science shit &amp;ndash; just to name a few. See ya around.</description>
+    </item>
+    
+    <item>
+      <title>Doom and Animal Crossing</title>
+      <link>http://wordvoid.net/first_post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://wordvoid.net/first_post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

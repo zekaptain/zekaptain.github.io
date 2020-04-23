@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on word void</title>
+    <link>http://wordvoid.net/tags/</link>
+    <description>Recent content in Tags on word void</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://wordvoid.net/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>acnh</title>
+      <link>http://wordvoid.net/tags/acnh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://wordvoid.net/tags/acnh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>doom</title>
+      <link>http://wordvoid.net/tags/doom/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://wordvoid.net/tags/doom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>video games</title>
+      <link>http://wordvoid.net/tags/video-games/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://wordvoid.net/tags/video-games/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

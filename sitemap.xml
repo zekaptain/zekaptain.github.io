@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://wordvoid.net/</loc>
+    <lastmod>2017-06-26T18:27:58+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://wordvoid.net/about/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://wordvoid.net/tags/acnh/</loc>
+  </url>
+  
+  <url>
+    <loc>http://wordvoid.net/post/</loc>
+  </url>
+  
+  <url>
+    <loc>http://wordvoid.net/tags/doom/</loc>
+  </url>
+  
+  <url>
+    <loc>http://wordvoid.net/first_post/</loc>
+  </url>
+  
+  <url>
+    <loc>http://wordvoid.net/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>http://wordvoid.net/tags/video-games/</loc>
+  </url>
+  
+</urlset>
