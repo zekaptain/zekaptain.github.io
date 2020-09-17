@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>mental health on word void</title>
+    <link>https://wordvoid.net/en/tags/mental-health/</link>
+    <description>Recent content in mental health on word void</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>zekelkins@gmail.com (zoe)</managingEditor>
+    <webMaster>zekelkins@gmail.com (zoe)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Wed, 16 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <sy:updatePeriod>weekly</sy:updatePeriod>
+    
+        <atom:link href="https://wordvoid.net/en/tags/mental-health/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title></title>
+        <link>https://wordvoid.net/en/posts/second_post/</link>
+        <pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate>
+        <author>zekelkins@gmail.com (zoe)</author>
+        <atom:modified>Wed, 16 Sep 2020 00:00:00 +0000</atom:modified>
+        <guid>https://wordvoid.net/en/posts/second_post/</guid>
+        <description>I had this conversation a while ago with a friend who expressed complete despair over Bernie Sanders&amp;rsquo; campaign suspension and what four more years of either Trump or Biden means for the Earth&amp;rsquo;s climate. Our planet&amp;rsquo;s climate is warming at an alarming rate, and we&amp;rsquo;re only seeing the effects of carbon dioxide emissions from thirty years ago. Even more, that rate is accelerating &amp;ndash; the emissions we&amp;rsquo;re pumping into the air now will take effect even sooner.</description>
+        
+        <dc:creator>zoe</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>blackpill</category>
+            
+          
+            
+              <category>nihilism</category>
+            
+          
+            
+              <category>mental health</category>
+            
+          
+            
+              <category>doomers</category>
+            
+          
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
