@@ -3,6 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://wordvoid.net/en/posts/gore-child/</loc>
+    <lastmod>2022-04-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wordvoid.net/en/tags/fiction/</loc>
+    <lastmod>2022-04-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wordvoid.net/en/posts/</loc>
+    <lastmod>2022-04-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wordvoid.net/en/tags/</loc>
+    <lastmod>2022-04-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://wordvoid.net/ko/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wordvoid.net/en/tags/"
+                />
+  </url>
+  
+  <url>
     <loc>https://wordvoid.net/en/tags/blackpill/</loc>
     <lastmod>2020-09-16T00:00:00+00:00</lastmod>
   </url>
@@ -48,11 +78,6 @@
   </url>
   
   <url>
-    <loc>https://wordvoid.net/en/posts/</loc>
-    <lastmod>2020-09-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://wordvoid.net/en/tags/sekiro/</loc>
     <lastmod>2020-09-16T00:00:00+00:00</lastmod>
   </url>
@@ -70,21 +95,6 @@
   <url>
     <loc>https://wordvoid.net/en/tags/sunless-skies/</loc>
     <lastmod>2020-09-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wordvoid.net/en/tags/</loc>
-    <lastmod>2020-09-16T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://wordvoid.net/ko/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://wordvoid.net/en/tags/"
-                />
   </url>
   
   <url>
